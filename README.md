@@ -13,6 +13,30 @@
 - ⚡ Fun fact: **I debug faster with snacks, dream in JavaScript, and ship clean code with loud ambitions 🚀**
 
 ---
+## 🚀 Astrotick – Astrology Consultation Platform  
+🔗 **Live Project:** https://www.astrotick.com  
+
+Astrotick is a full-stack astrology consultation and Kundali service platform built to connect users with professional astrologers through **live chat, instant calls, and personalized reports**. I contributed across both frontend and backend modules to ensure smooth, secure, and scalable performance.
+
+### 🔥 Key Contributions
+- **Backend Architecture & Scalable REST APIs** for user onboarding, astrologer listings, chat sessions, wallet management, and order workflows.
+- Implemented **JWT-based authentication**, encrypted data flow, protected routes, and secure wallet transaction handling.
+- Supported **real-time communication** for chat & call sessions with optimized response handling.
+- Designed and optimized **database models** for users, astrologers, services, transactions, and session history.
+- Developed **astrologer-facing features** including availability settings, pricing, and service configuration.
+- Integrated responsive UI flows and enhanced **user experience** for service booking, Kundali generation, and profile handling.
+- Worked on **payment APIs, wallet updates, refund logic**, and stable transaction flow.
+
+### 🛠 Tech Stack
+**React • Next.js • Node.js • Express • MongoDB / SQL • JWT • REST APIs • Git • Deployment Pipelines**
+
+### ⭐ What This Project Demonstrates
+- End-to-end full stack engineering  
+- Strong backend, API, and database design knowledge  
+- Real-time communication handling  
+- Clean, secure, and scalable system development  
+
+---
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
